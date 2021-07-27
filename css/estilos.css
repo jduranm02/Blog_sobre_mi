@@ -20,7 +20,7 @@ padding:0.5em;
 
 #cabecera2
 {
-    background: #456;
+    background: rgb(150, 63, 121);
 color:rgb(255, 254, 255);
 font-weight: normal;
 margin:0;
@@ -32,7 +32,7 @@ padding:0.3em;
     width: 70%;
     padding: 0;
     text-align: left;
-    border: 1px solid rgb(168, 37, 37);
+    border: 1px solid rgb(37, 168, 48);
     margin: 0 auto;
 }
 
