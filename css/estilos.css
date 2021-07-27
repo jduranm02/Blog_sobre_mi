@@ -7,10 +7,30 @@ body
     margin: 0;
     padding: 0;
 }
+
+#cabecera 
+{
+background: #456;
+color:aqua;
+font-weight: bold;
+margin:0;
+padding:0.5em;
+
+}
+
+#cabecera2
+{
+    background: #456;
+color:rgb(255, 254, 255);
+font-weight: normal;
+margin:0;
+padding:0.3em;
+}
+
 #container
 {
     width: 70%;
-    padding: 1em;
+    padding: 0;
     text-align: left;
     border: 1px solid rgb(168, 37, 37);
     margin: 0 auto;
